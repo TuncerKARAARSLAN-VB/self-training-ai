@@ -96,6 +96,6 @@ To effectively write and run Python code, you can set up a development environme
   python hello.py
   ```
 
-[hellp.py](code/hello/hello.py)
+[hello.py](code/hello/hello.py)
 
 Congratulations! You have successfully installed Python and set up your development environment. You can now start coding in Python!
