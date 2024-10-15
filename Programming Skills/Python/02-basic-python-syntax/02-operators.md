@@ -96,3 +96,5 @@ c **= b  # Equivalent to c = c ** b
 ### Summary
 
 Understanding operators in Python is crucial for performing operations and making comparisons between values. They allow you to write dynamic and complex code efficiently. Familiarizing yourself with these operators will help you manipulate data effectively in your programs.
+
+[All Codes](./code/operators.py)

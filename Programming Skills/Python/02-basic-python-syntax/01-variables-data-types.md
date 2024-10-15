@@ -131,3 +131,5 @@ You can convert between different data types using built-in functions:
 #### Summary
 
 Understanding variables and data types is fundamental in Python programming. This knowledge allows you to store, manipulate, and work with different types of data efficiently in your applications. By practicing with various data types and variables, you can build a strong foundation for your Python programming skills.
+
+[All Codes](./code/variables-datatypes.py)
